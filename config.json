@@ -1,0 +1,11 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "t!",
+    "greeting": {
+        "channel": "",
+        "role": ""
+    },
+    "serverStats": {
+        "total": "728183899892744302"
+    }
+} 
